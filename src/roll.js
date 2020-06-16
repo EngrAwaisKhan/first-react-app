@@ -6,4 +6,4 @@ function Roll(props){
     )
 }
 
-export default Roll_No;
+export default Roll;
