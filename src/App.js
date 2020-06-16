@@ -8,7 +8,7 @@ function App() {
   <div>
       <h2>***Student Info***</h2>
     <Name Sname = "Muhammad Awais Khan"/>
-    <Roll sroll = "12"/>
+    <Roll Sroll = "12"/>
     <Class Sclass = "PIAIC_Bootcamp-class3"/>
   </div>
   )
