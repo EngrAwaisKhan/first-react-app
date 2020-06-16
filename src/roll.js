@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Roll_No(props){
+function Roll(props){
     return(
         <p>Roll No: {props.Sroll}</p>
     )
