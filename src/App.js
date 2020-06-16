@@ -1,6 +1,5 @@
 import React from 'react';
 import Name from './name.js';
-import Roll from './roll.js'
 import Class from './class.js'
 
 function App() {
