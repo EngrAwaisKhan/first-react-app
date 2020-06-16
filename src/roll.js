@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Roll_No(props){
+function ROLL_NO(props){
     return(
         <p>Roll No: {props.Sroll}</p>
     )
 }
 
-export default Roll_No;
+export default ROLL_NO;
