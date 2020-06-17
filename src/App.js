@@ -1,11 +1,9 @@
 import React from 'react';
-
+import Name from './name.js';
 function App() {
   return (
   <div>
-    <h2>ReactJs Page</h2>
-    <p>This page contains all information about react js application </p>
-    <p>Created by: Muhammad Awais Khan</p>
+    <Name Pname ="Muhammad Awais Khan"/>
   </div>
   )
 }
