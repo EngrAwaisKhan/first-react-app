@@ -1,6 +1,7 @@
 import React from 'react';
 import Name from './name.js';
-import Class from './class.js'
+import Roll_No from './roll.js';
+import Class from './class.js';
 
 function App() {
   return (
