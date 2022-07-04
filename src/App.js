@@ -5,9 +5,9 @@ import Class from './class.js';
 
 function App() {
   return (
-  <div>
+  <div className='name'>
       <h2>***Student Info***</h2>
-    <Name ClassName="name" Sname = "Muhammad Awais Khan"/>
+    <Name Sname = "Muhammad Awais Khan"/>
     <Roll Sroll = "12"/>
     <Class Sclass = "PIAIC_Bootcamp-class3"/>
   </div>
