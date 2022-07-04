@@ -5,7 +5,7 @@ import Class from './class.js';
 
 function App() {
   return (
-  <div className='name'>
+  <div>
       <h2>***Student Info***</h2>
       <h2>***Information***</h2>
     <Name Sname = "Muhammad Awais Khan"/>
